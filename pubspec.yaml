@@ -1,0 +1,56 @@
+name: testing1
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^4.1.1
+  firebase_core: ^1.21.0
+  firebase_auth: ^3.4.2
+  webview_flutter: ^3.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  animated_splash_screen:
+
+  flutter_lints: ^1.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/Source Code.png
+    - images/cloud_services.png
+    - images/web development.png
+    - images/UIUX.jpg
+    - images/software consulting.png
+    - images/Mobile application development.png
+    - images/rodeo.png
+    - images/Mobile application development.png
+    - images/software development consulting.png
+    - images/software development consulting.png
+
+
+
+
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
