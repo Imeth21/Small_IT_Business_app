@@ -17,12 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .image-container {
-      display: flex;
-      gap: 150px;
-    }
-  </style>
+ 
 </head>
 <body>
   <div class="image-container">
