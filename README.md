@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
     }
 
     .image-container img {
-      margin-right: 10px; /* Adjust this value to set the desired spacing */
+      margin-right: 1000px; /* Adjust this value to set the desired spacing */
     }
   </style>
 </head>
