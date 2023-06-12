@@ -17,15 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .image-container {
-      display: flex;
-    }
 
-    .image-container img {
-      margin-right: 1000px; /* Adjust this value to set the desired spacing */
-    }
-  </style>
 </head>
 <body>
   <div class="image-container">
