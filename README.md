@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
   <style>
     .image-container {
       display: flex;
-      gap: 10px; /* Adjust this value to set the desired spacing */
+      gap: 20px; /* Adjust this value to set the desired spacing */
     }
   </style>
 </head>
